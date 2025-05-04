@@ -1,4 +1,4 @@
-This project is a Smart Waste Management System that combines Deep Learning, Arduino-based hardware, and servo motors to create an intelligent, automated waste-sorting solution. The system is designed to identify and categorize waste (e.g., plastic, metal, paper, organic) using a trained machine learning model and perform sorting actions in real-time through servo-controlled bins. 
+Smart Waste Management System that combines Deep Learning, Arduino-based hardware, and servo motors to create an intelligent, automated waste-sorting solution. The system is designed to identify and categorize waste (e.g., plastic, metal, paper, organic) using a trained machine learning model and perform sorting actions in real-time through servo-controlled bins. 
 
 **Technologies Used:**
 1. Deep Learning (TensorFlow/Keras): For image classification of waste types.
